@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace RESTTests
+namespace WalletService
 {
     public static class WebApiConfig
     {

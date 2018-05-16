@@ -1,6 +1,6 @@
 ﻿namespace WalletService.Models
 {
-    public class Account
+    public class Wallet
     {
         public string Money { get; set; }
 
