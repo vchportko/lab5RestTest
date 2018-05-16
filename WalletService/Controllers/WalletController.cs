@@ -12,7 +12,7 @@ namespace WalletService.Controllers
         private static double money = 100;
         private static double credit = 50;
 
-        private static Wallet Response =>
+        private static readonly Wallet Response =
             new Wallet()
             {
                 Money = money.ToString("0.00"),
